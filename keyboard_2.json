@@ -1,0 +1,22 @@
+{
+  "buttons": [
+    [
+      {
+        "action": {
+          "type": "text",
+          "label": "Сайт",
+          "payload": ""
+        },
+        "color": "positive"
+      },
+      {
+        "action": {
+          "type": "text",
+          "label": "Бот",
+          "payload": ""
+        },
+        "color": "positive"
+      }
+    ]
+  ]
+}

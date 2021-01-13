@@ -1,0 +1,24 @@
+{
+  "buttons": [
+    [
+      {
+        "action": {
+          "type": "text",
+          "label": "Отправить заявку",
+          "payload": ""
+        },
+        "color": "positive"
+      }
+    ],
+    [
+      {
+        "action": {
+          "type": "text",
+          "label": "Начать сначала",
+          "payload": ""
+        },
+        "color": "negative"
+      }
+    ]
+  ]
+}
