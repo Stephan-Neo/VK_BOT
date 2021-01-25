@@ -4,7 +4,7 @@ from vk_api.longpoll import VkLongPoll, VkEventType
 import sqlite3
 
 # ссылка на бота в вк https://vk.com/im?media=&sel=-200020330
-vk_session = vk_api.VkApi(token="607f22888eefc4fa2a9ee847aa4a4ad181a45b6e432e7741a101df2f633eac53fc7f6c0578f33b3326397")
+vk_session = vk_api.VkApi(token="")
 longpoll = VkLongPoll(vk_session)
 vk = vk_session.get_api()
 Random = 0
